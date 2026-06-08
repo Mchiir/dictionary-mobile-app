@@ -8,7 +8,8 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mchiir.dictionaryapp"
     },
     "android": {
       "package": "com.mchiir.dictionaryapp",
@@ -22,6 +23,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c2cdf9d1-9a8d-4708-a1af-beae00e89296"
+      }
     }
   }
 }
