@@ -17,7 +17,11 @@ files = [
     "src/hooks/useDictionary.ts",
     "src/types/dictionary.ts",
     "src/constants/api.ts",
-    "src/utils/parser.ts"
+    "src/utils/parser.ts",
+    "docs/system_architecture.md",
+    "docs/data_flow_diagram.md",
+    "docs/app_flow.md",
+    "docs/api_flow.md"
 ]
 
 def create_structure():
