@@ -178,6 +178,10 @@ cd dictionary-mobile-app
 ```bash
 pnpm install
 ```
+or
+```bash
+npm install
+```
 
 ## Running the Application
 
